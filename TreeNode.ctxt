@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=key\ value
+comment0.target=TreeNode(java.lang.String,\ addressbook.Entry)
+comment1.params=
+comment1.target=java.lang.String\ getKey()
+comment2.params=
+comment2.target=addressbook.Entry\ getValue()
+comment3.params=
+comment3.target=addressbook.TreeNode\ getLeftChild()
+comment4.params=leftChild
+comment4.target=void\ setLeftChild(addressbook.TreeNode)
+comment5.params=
+comment5.target=addressbook.TreeNode\ getRightChild()
+comment6.params=rightChild
+comment6.target=void\ setRightChild(addressbook.TreeNode)
+comment7.params=key
+comment7.target=addressbook.TreeNode\ find(java.lang.String)
+comment8.params=key\ value
+comment8.target=void\ insert(java.lang.String,\ addressbook.Entry)
+numComments=9

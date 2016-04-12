@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=hashTable()
+comment0.text=\n\ Constructor\ for\ objects\ of\ type\ hashTable\n
+comment1.params=fName\ lName\ phone\ email
+comment1.target=void\ insert(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Insert\ data\ into\ hash\ table\n\ @param\ fName\ First\ name\n\ @param\ lName\ Last\ name\n\ @param\ phone\ Phone\ number\n\ @param\ email\ Email\ address\n
+comment2.params=fName\ lName
+comment2.target=void\ remove(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Remove\ an\ entry\ from\ the\ hash\ table\n\ @param\ fName\ First\ name\n\ @param\ lName\ Last\ name\n
+comment3.params=fName\ lName
+comment3.target=void\ lookup(java.lang.String,\ java.lang.String)
+comment3.text=\n\ Lookup\ an\ entry\ given\ a\ first\ and\ last\ name\n\ @param\ fName\ First\ name\n\ @param\ lName\ Last\ name\n
+comment4.params=fName\ lName
+comment4.target=addressbook.Entry\ getEntry(java.lang.String,\ java.lang.String)
+comment4.text=\n\ Retrieve\ an\ entry\ from\ the\ hash\ table\n\ @param\ fName\ First\ name\n\ @param\ lName\ Last\ name\n\ @return\ Entry\ object\n
+comment5.params=key
+comment5.target=int\ getBucket(java.lang.String)
+comment5.text=\n\ Get\ bucket\ from\ a\ last\ name\ and\ first\ name\n\ @param\ key\n\ @return\ int\ bucket\ number\n
+comment6.params=fName\ lName
+comment6.target=java.lang.String\ generateKey(java.lang.String,\ java.lang.String)
+comment6.text=\n\ Creates\ key\ from\ fName\ and\ lName\n\ @param\ fName\n\ @param\ lName\n\ @return\ key\n
+comment7.params=
+comment7.target=void\ displayHash()
+comment7.text=\n\ Dumps\ the\ whole\ hash\ table\n
+numComments=8

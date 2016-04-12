@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=fName\ lName\ phone\ email
+comment0.target=void\ insert(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ Insert\ data\ into\ binary\ tree\n\ @param\ fName\ First\ name\n\ @param\ lName\ Last\ name\n\ @param\ phone\ Phone\ number\n\ @param\ email\ Email\ address\n
+comment1.params=fName\ lName
+comment1.target=void\ remove(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Remove\ entry\ from\ binary\ tree\n\ @param\ fName\n\ @param\ lName\ \n
+comment2.params=fName\ lName
+comment2.target=void\ lookup(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Lookup\ entry\ in\ binary\ tree\ \n\ @param\ fName\n\ @param\ lName\ \n
+comment3.params=fName\ lName
+comment3.target=java.lang.String\ generateKey(java.lang.String,\ java.lang.String)
+comment3.text=\n\ Creates\ key\ from\ fName\ and\ lName\n\ @param\ fName\n\ @param\ lName\n\ @return\ key\n
+comment4.params=
+comment4.target=void\ displayTree()
+comment4.text=\n\ Display\ root\ of\ a\ tree\ and\ it's\ 0-2\ children\n\ \n
+comment5.params=fName\ lName
+comment5.target=void\ displayTree(java.lang.String,\ java.lang.String)
+comment5.text=\n\ Display\ a\ node\ and\ it's\ 0-2\ children\n\ @param\ fName\n\ @param\ lName\ \n
+numComments=6

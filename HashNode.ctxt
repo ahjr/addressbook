@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=key\ value
+comment0.target=HashNode(java.lang.String,\ Entry)
+comment0.text=\n\ Constructor\ of\ object\ Node\n\ \n
+comment1.params=key\ value\ nextNode
+comment1.target=HashNode(java.lang.String,\ Entry,\ HashNode)
+comment1.text=\n\ Constructor\ of\ object\ Node\ with\ given\ nextNode\n
+comment2.params=key
+comment2.target=void\ setKey(java.lang.String)
+comment2.text=\n\ Set\ Node\ key\n\ @param\ key\ \n
+comment3.params=value
+comment3.target=void\ setValue(Entry)
+comment3.text=\n\ Set\ Node\ value\n\ @param\ value\ Object\ of\ type\ Entry\n
+comment4.params=nextNode
+comment4.target=void\ setNextNode(HashNode)
+comment4.text=\n\ Set\ next\ node\n\ @param\ nextNode\n
+comment5.params=
+comment5.target=java.lang.String\ getKey()
+comment5.text=\n\ Get\ this\ node's\ key\n\ @return\ key\n
+comment6.params=
+comment6.target=Entry\ getValue()
+comment6.text=\n\ Get\ this\ node's\ value\n\ @return\ object\ of\ type\ Entry\n
+comment7.params=
+comment7.target=HashNode\ getNextNode()
+comment7.text=\n\ Get\ next\ node\n\ @return\ object\ of\ type\ Node\n
+numComments=8
